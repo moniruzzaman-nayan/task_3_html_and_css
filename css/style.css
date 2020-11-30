@@ -1,0 +1,46 @@
+
+/* CSS file by Nayan
+*/
+
+h3{
+	border: 5px solid blue;
+	background-color: lime;
+	color: red;
+	font-size: 20px;
+
+  }
+
+  .welcome{
+  	font-size: 28px;
+  	text-align: center;
+  	background-color: white;
+  	color: blue;
+  }
+
+.paragraph1{
+
+	font-size: 20;
+	color: green;
+	background: ivory;
+}
+
+#paragraph2{
+	color: maroon;
+	background-color: azure;
+	font-size: 20;
+}
+
+.rgb{
+	background-color: rgb(207, 252, 3);
+}
+
+.rgba{
+background-color: rgba(204, 24, 217, 0.8)
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: rgba(204, 24, 217, 0.8);
+}
+
